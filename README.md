@@ -1,1 +1,1 @@
-# terminos-y-condiciones
+# Términos y Condiciones
