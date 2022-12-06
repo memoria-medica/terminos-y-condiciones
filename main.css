@@ -1,0 +1,21 @@
+/* Estilos header */
+
+body {
+    max-width: 90%;
+    min-height: 100vh;
+    padding:0;
+    margin:0;
+    background-color: #ebebeb;
+}
+
+
+/* Resolución tablet y mayor */
+@media screen and (min-width: 769px) {
+
+    body {
+        
+        margin: 0 auto;
+    }
+
+}
+
